@@ -1,0 +1,5 @@
+Faria uma pesquisa na região, sobre a possibilidade de se ter uma floricultura. E caso a resposta fosse favorável, perguntaria sobre o tipo de serviço que podeia ser prestado, tipo:
+
+- delivery;
+- paisagismo nos lares;
+- prefererencia das flores e plantas...
