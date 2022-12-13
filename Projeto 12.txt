@@ -1,0 +1,1 @@
+A primeira e talvez a principal diferença entre MVP e Protótipo é que o MVP está relacionado ao modelo de negócio, enquanto ao Protótipo ao produto/serviço comercializado pelo negócio. Protótipo é uma visão simplificada do produto a ser desenvolvido para validar a aceitação do usuário.
